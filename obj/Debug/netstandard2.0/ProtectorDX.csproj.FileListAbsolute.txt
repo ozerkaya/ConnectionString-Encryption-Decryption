@@ -1,0 +1,14 @@
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\ProtectorDX.deps.json
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\ProtectorDX.dll
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\System.Configuration.dll
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\System.Security.dll
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\System.Configuration.xml
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\System.Security.xml
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.csprojAssemblyReference.cache
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.AssemblyInfoInputs.cache
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.AssemblyInfo.cs
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.csproj.CopyComplete
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\bin\Debug\netstandard2.0\ProtectorDX.pdb
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.csproj.CoreCompileInputs.cache
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.dll
+C:\Users\ozer.kaya\Source\Repos\EFaturaAzure\ProtectorDX\obj\Debug\netstandard2.0\ProtectorDX.pdb

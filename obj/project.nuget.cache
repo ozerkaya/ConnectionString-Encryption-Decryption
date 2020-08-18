@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "G/9TwptwscuL70Zlxw0QRBH0tN0XAJT/ZgX2q2et/I38YnxYjeb773X1eOCWOZYoqyP14egY6Bw9kNawOo4mjA==",
+  "success": true,
+  "projectFilePath": "C:\\OZER\\ProtectorDX\\ProtectorDX.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ozer.kaya\\.nuget\\packages\\libgit2sharp\\0.26.2\\libgit2sharp.0.26.2.nupkg.sha512",
+    "C:\\Users\\ozer.kaya\\.nuget\\packages\\libgit2sharp.nativebinaries\\2.0.306\\libgit2sharp.nativebinaries.2.0.306.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
